@@ -1,0 +1,14 @@
+{
+  "loginData": {
+    "username": "hey@abc.com",
+    "password": "Testing@1234",
+    "loginName": "Severus Snape"
+  },
+  "registrationData": {
+    "firstName": "",
+    "LastName": "",
+    "dob": "",
+    "phoneNo": 123456789,
+    "isEnabled": false
+  }
+}
